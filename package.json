@@ -1,0 +1,22 @@
+{
+  "name": "countconsonants",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Raul araujo",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/raularauj0/CountConsonants.git"
+  },
+  "bugs": {
+    "url": "https://github.com/raularauj0/CountConsonants/issues"
+  },
+  "homepage": "https://github.com/raularauj0/CountConsonants#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.6.0"
+  }
+}
