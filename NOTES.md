@@ -25,3 +25,16 @@ Consonants are all letters used to write English excluding the vowels a, e, i, o
 
 ## pomodoro 3
 - refactor the prod code to recive a for 
+- remove the for
+- add replaceall
+- add tolowercase
+- create let variable for each vowel
+- replace vowels to ''
+- count the rest of letters to be the consonant
+
+## pomodoro 3
+-should return 0 if str is diferent of string
+-create prod code to pass in the test
+-should return 0 if string is a number
+-create prod code to pass in the test
+-should return 0 if str contais special charaters
